@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">Cast BLACK</string>
-
-    <string name="banner_text">CAST TO BLACK</string>
-
-    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="app_name">Cast Black</string>
+    <string name="title_activity_fullscreen">Cast to Black</string>
+    <string name="main_content_text">CAST TO BLACK</string>
 </resources>
